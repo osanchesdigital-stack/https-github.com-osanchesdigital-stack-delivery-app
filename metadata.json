@@ -1,0 +1,7 @@
+{
+  "name": "Churrasquinho do Netão - Delivery",
+  "description": "A mobile-first food delivery application for a barbecue restaurant, allowing users to browse categories, view popular items, and manage their orders and profile.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
